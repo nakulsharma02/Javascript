@@ -1,3 +1,5 @@
+const { configDotenv } = require("dotenv");
+
 /*There are two Datatypes
 1). Primitive(nn ss bb u) : null,number,string,symbol,boolean,bigint,undefined
 2). Non-Primitive: Objects*/
@@ -9,3 +11,8 @@ e = true;
 f = BigInt(1345+78);
 g = undefined;/* or let g; */
 console.log(a,b,c,d,e,f,g);
+const a1 = {
+    name : "Hello",
+    cond : true,
+}
+console.log(a1)
