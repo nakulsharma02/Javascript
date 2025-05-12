@@ -69,4 +69,3 @@ console.log(a!==b);*/
  let x = 23;
  let y = 90;
  console.log(x<y?(x+y):(x-y));
-
