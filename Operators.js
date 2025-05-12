@@ -66,7 +66,7 @@ console.log(a!==b);*/
  console.log(x>>>2);*/
 
  // Ternary Operator
- /*let x = 23;
+ let x = 23;
  let y = 90;
- console.log(x<y?(x+y):(x-y));*/
+ console.log(x<y?(x+y):(x-y));
 
