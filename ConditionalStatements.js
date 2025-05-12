@@ -42,5 +42,4 @@ switch(true){
     default:
         console.log("Give the Correct age");    
 }
-
-
+(age>18)?(console.log("You are adult.")):(console.log("You are not adult."));
