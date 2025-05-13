@@ -15,6 +15,8 @@ const n3 = "Nakul";
 const message = `${n3} you are smarter than others.`;//string Interpolation using only in(``)
 console.log(message);*/
 
+// Escape Sequence Characters = \n,\t,\r 
+
 //String properties 
 /*let string = "Hello String"
 console.log(string.length);
