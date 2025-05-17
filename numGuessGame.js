@@ -14,5 +14,5 @@ if(user == computer){
         user = prompt("You Guessed the greater no . Try again.");
         score = score-1;
     }}
-  console.log("You got it right. Your score:" + score);
+  alert("You got it right. Your score: " + score);
 }
